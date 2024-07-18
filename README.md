@@ -10,7 +10,7 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 ## Tech Stack
 
-**Client:** JSP, HTML, CSS, Javascript
+**Client:** JSP, HTML, CSS, Bootstrap, Javascript, 
 
 **Server:** Apache Tomcat® Native - v2.0.7
 
