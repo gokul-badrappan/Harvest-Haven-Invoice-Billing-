@@ -27,8 +27,7 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 
 ## Table Design 
-
-![tabledesign](https://github.com/user-attachments/assets/d79dbf4d-e2b6-4679-9a2c-05d600f1a021)
+<img width="963" alt="Screenshot 2024-07-18 at 11 35 20 PM" src="https://github.com/user-attachments/assets/1e28ee78-53a2-4bad-9c61-74e789885700">
 
 <img width="737" alt="Screenshot 2024-07-18 at 10 49 40 PM" src="https://github.com/user-attachments/assets/71af81ff-e899-4bb0-bbff-091a7133bc37">
 
