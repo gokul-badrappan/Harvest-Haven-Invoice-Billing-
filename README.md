@@ -20,29 +20,61 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 ## Table Design
 
+Item Table
 <img width="888" alt="item" src="https://github.com/user-attachments/assets/0486f1d0-5f88-4b90-b061-b833d596dda1">
 
+Invoice Table
 <img width="942" alt="invoice" src="https://github.com/user-attachments/assets/e539cb2a-f0a7-49dd-9795-90c9d0e4db67">
 
+Customer Table
 <img width="777" alt="customer" src="https://github.com/user-attachments/assets/1f868b60-a70a-4d45-b7ce-96af48c88d55">
 
+BillItem Table
 <img width="736" alt="billitem" src="https://github.com/user-attachments/assets/5997d7ec-f121-4d9c-b488-22074d6f97fb">
 
 
 ## Screenshots
 
-<img width="1470" alt="Screenshot 2024-07-18 at 10 15 39 PM" src="https://github.com/user-attachments/assets/067a9bb8-63e5-4e8f-a9aa-57d1519d2fb5"><img width="1470" alt="Screenshot 2024-07-18 at 10 22 53 PM" src="https://github.com/user-attachments/assets/1784a2fa-afa2-4fe4-9d2e-c3e72ee16577">
+Homepage
+<img width="1470" alt="Screenshot 2024-07-18 at 10 15 39 PM" src="https://github.com/user-attachments/assets/067a9bb8-63e5-4e8f-a9aa-57d1519d2fb5">
+
+
+Update Item Rate
+<img width="1470" alt="Screenshot 2024-07-18 at 10 22 53 PM" src="https://github.com/user-attachments/assets/1784a2fa-afa2-4fe4-9d2e-c3e72ee16577">
+
+
+Add / Remove Stock
 <img width="1470" alt="Screenshot 2024-07-18 at 10 22 30 PM" src="https://github.com/user-attachments/assets/cd1c9017-2ca1-4e90-86d4-d9f855f3e0ed">
+
+
+View Unpaid Invoices
 <img width="1470" alt="Screenshot 2024-07-18 at 10 21 32 PM" src="https://github.com/user-attachments/assets/6792c5a7-824c-422b-9007-3010075ec084">
+
+
+View Invoices by Status
 <img width="1470" alt="Screenshot 2024-07-18 at 10 21 22 PM" src="https://github.com/user-attachments/assets/ac4730dc-97d4-42ee-8369-630c2d3735a2">
+
+
+View Item Wise Revenue
 <img width="1470" alt="Screenshot 2024-07-18 at 10 21 08 PM" src="https://github.com/user-attachments/assets/209ffa09-b56a-48d5-b1f5-62a247a35a5e">
+
+
+View Invoice By ID
 <img width="1470" alt="Screenshot 2024-07-18 at 10 20 58 PM" src="https://github.com/user-attachments/assets/a4817146-915b-4d4a-85aa-e4c6843149b2">
+
+View Customer Specific Invoice
 <img width="1470" alt="Screenshot 2024-07-18 at 10 20 38 PM" src="https://github.com/user-attachments/assets/6448f79e-1260-4e60-9a40-8a88434b0e24">
+
+
+View Customer Specific Invoice
 <img width="1470" alt="Screenshot 2024-07-18 at 10 20 25 PM" src="https://github.com/user-attachments/assets/29bfa1da-f1e6-45d9-b612-f3a4081ace09">
+
+View All Invoices
 <img width="1282" alt="Screenshot 2024-07-18 at 10 20 07 PM" src="https://github.com/user-attachments/assets/6a8c4c15-3d74-4b98-9f1f-1c2e6234775f">
+
+Create an Invoice
 <img width="1222" alt="Screenshot 2024-07-18 at 10 18 16 PM" src="https://github.com/user-attachments/assets/acb5ed5a-64c5-416b-b738-f27059bfd08a">
 <img width="1309" alt="Screenshot 2024-07-18 at 10 17 35 PM" src="https://github.com/user-attachments/assets/4edf6aeb-6b20-4ceb-97cc-160e7954ba38">
-<img width="921" alt="Screenshot 2024-07-18 at 10 15 49 PM" src="https://github.com/user-attachments/assets/1351f5c5-7bfa-4801-9662-cce8fe1e8298">
 
 
 
