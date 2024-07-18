@@ -8,7 +8,6 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 - Gokul B - [@gokul-badrappan](https://github.com/gokul-badrappan)
 
-
 ## Tech Stack
 
 **Client:** JSP, HTML, CSS, Javascript
@@ -17,8 +16,20 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 **Database:** MySQL 9.0.0 
 
+## Project Uniqueness
+ - The dropdown menus for the item list is dynamically fetched from the database. Any changes in the add/remove stock will reflect throughout the application.
+ - The details that change over time (item rate) remain unchanged in the previously generated invoice. This is because we haven't used foreign key reference in the billitem table to get the item rate value. Instead we use a copy field in the billitem table.
+ - A feature to add a new item to stock or remove the item from existing stocks or update the rate of the existing items. This makes this application fully functional for the real world.
+ - The end-user of this application will be shopowner or billing person. Hence it is designed in such a way that they can give customised discount for each invoice.
+ - The MARK-AS-PAID is a feature through which the shopowner/billing person can change the payment status of the invoice.
+ - The User Interface of the application has been designed to make it user friendly and icons from FontAwesome and styling from Bootstrap have been incorporated to enhance the user experience.
+ - Client Side validations such as a new invoice can't be generated without adding the customer name and number, Item Name is made required to add it to the stocks, etc are included in this application.
 
-## Table Design
+
+## Table Design 
+
+![tabledesign](https://github.com/user-attachments/assets/d79dbf4d-e2b6-4679-9a2c-05d600f1a021)
+
 <img width="737" alt="Screenshot 2024-07-18 at 10 49 40 PM" src="https://github.com/user-attachments/assets/71af81ff-e899-4bb0-bbff-091a7133bc37">
 
 
@@ -65,8 +76,6 @@ View All Invoices
 Create an Invoice
 <img width="1222" alt="Screenshot 2024-07-18 at 10 18 16 PM" src="https://github.com/user-attachments/assets/acb5ed5a-64c5-416b-b738-f27059bfd08a">
 <img width="1309" alt="Screenshot 2024-07-18 at 10 17 35 PM" src="https://github.com/user-attachments/assets/4edf6aeb-6b20-4ceb-97cc-160e7954ba38">
-
-
 
 
 ## Modules Information
