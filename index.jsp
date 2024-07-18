@@ -96,7 +96,9 @@
                 <li><a href="viewInvoicesByStatus.jsp"><i class="fas fa-filter"></i> View Invoices by Status <i class="fas fa-angle-right"></i></a></li>
                 <li><a href="listUnpaidInvoices.jsp"><i class="fas fa-check"></i> Mark Invoices as Paid <i class="fas fa-angle-right"></i></a></li>
                 <li><a href="addRemoveStock.jsp"><i class="fa-solid fa-circle-plus"></i> Add/Remove Stock<i class="fas fa-angle-right"></i></a></li>
-                <li><a href="updateItemRate.jsp"><i class="fa-solid fa-indian-rupee-sign"></i> Update Item Price<i class="fas fa-angle-right"></i></a></li>
+                <li><a href="updateItemRate.jsp"><i class="fa-regular fa-pen-to-square"></i> Update Item Price<i class="fas fa-angle-right"></i></a></li>
+                <li><a href="showPrices.jsp"><i class="fa-solid fa-indian-rupee-sign"></i>Show Item Rates <i class="fas fa-angle-right"></i></a></li>
+               
             </ul>
         </div>
     </div>
