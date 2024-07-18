@@ -19,18 +19,8 @@ Harvest Haven is an application that will fulfill the need of creating, maintain
 
 
 ## Table Design
+<img width="737" alt="Screenshot 2024-07-18 at 10 49 40 PM" src="https://github.com/user-attachments/assets/71af81ff-e899-4bb0-bbff-091a7133bc37">
 
-Item Table
-<img width="888" alt="item" src="https://github.com/user-attachments/assets/0486f1d0-5f88-4b90-b061-b833d596dda1">
-
-Invoice Table
-<img width="942" alt="invoice" src="https://github.com/user-attachments/assets/e539cb2a-f0a7-49dd-9795-90c9d0e4db67">
-
-Customer Table
-<img width="777" alt="customer" src="https://github.com/user-attachments/assets/1f868b60-a70a-4d45-b7ce-96af48c88d55">
-
-BillItem Table
-<img width="736" alt="billitem" src="https://github.com/user-attachments/assets/5997d7ec-f121-4d9c-b488-22074d6f97fb">
 
 
 ## Screenshots
