@@ -60,7 +60,8 @@ View Item Wise Revenue
 
 
 View Invoice By ID
-<img width="1470" alt="Screenshot 2024-07-18 at 10 20 58 PM" src="https://github.com/user-attachments/assets/a4817146-915b-4d4a-85aa-e4c6843149b2">
+<img width="1460" alt="Screenshot 2024-07-19 at 12 25 14 AM" src="https://github.com/user-attachments/assets/cbf8c294-e504-4ab6-a30f-d8a2a70bf8ae">
+
 
 View Customer Specific Invoice
 <img width="1470" alt="Screenshot 2024-07-18 at 10 20 38 PM" src="https://github.com/user-attachments/assets/6448f79e-1260-4e60-9a40-8a88434b0e24">
@@ -75,6 +76,10 @@ View All Invoices
 Create an Invoice
 <img width="1222" alt="Screenshot 2024-07-18 at 10 18 16 PM" src="https://github.com/user-attachments/assets/acb5ed5a-64c5-416b-b738-f27059bfd08a">
 <img width="1309" alt="Screenshot 2024-07-18 at 10 17 35 PM" src="https://github.com/user-attachments/assets/4edf6aeb-6b20-4ceb-97cc-160e7954ba38">
+
+View Prices of Items in the Store
+<img width="1436" alt="Screenshot 2024-07-19 at 12 26 36 AM" src="https://github.com/user-attachments/assets/e26cb02e-6054-4e85-afe7-26d72e318052">
+
 
 
 ## Modules Information
@@ -93,6 +98,7 @@ Following are the JSP files that are used in the appliation
 - viewInvoicesByStatus.jsp
 - viewItemWiseRevenue.jsp
 - viewCustomerInvoices.jsp
+- viewPrices.jsp
 
 1. createInvoice.jsp: 
 This JSP allows users to create new invoices. It prompts for customer information(Name and Phone Number) and item details(the list of items is fetched from the databases), calculates totals with discounts and delivery charges, and stores the invoice information in the Invoice Table and BillItem Table in the database.
@@ -129,6 +135,9 @@ This JSP displays a report showing the total revenue generated from each item. I
 
 12. viewCustomerInvoices:
 This JSP displays the invoices that are created by the specific customer. We can give the phone number of the customer and all the invoices under that phone number will be displayed.
+
+13. viewPrices.jsp
+This JSP allows the user to see the items available and their prices in the stores. This feature will be helpful for customers and shopkeepers/workers who wish to see thier item prices.
 ## Functions and Files Used
 
 1. VIEW ALL INVOICES:
@@ -163,6 +172,8 @@ This JSP displays the invoices that are created by the specific customer. We can
 10. LANDING PAGE:
 - index.jsp
 
+11. VIEW ITEM RATES
+- showPrices.jsp
 
 ## Run Locally 
 
