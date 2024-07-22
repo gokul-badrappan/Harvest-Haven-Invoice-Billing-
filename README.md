@@ -177,7 +177,7 @@ This JSP allows the user to see the items available and their prices in the stor
 
 ## Run Locally 
 
-Windows :
+Mac :
  1. Download Tomcat for macOS (v 10.1.26) from the official Tomcat website.
 2.	Extract the downloaded tar.gz file.
 3.	Open the extracted apache-tomcat-10.1.26 directory.
@@ -192,7 +192,7 @@ Windows :
 9. Access your project in the browser using the URL: http://localhost:8080/supermarket.
 
 ##
-Mac:
+Windows:
 1. Download Tomcat Native  from the official Tomcat website.
 2. Extract the downloaded tar.gz file.
 3. Open the extracted apache-tomcat-10.1.26 directory.
